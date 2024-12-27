@@ -14,7 +14,7 @@ function getchannels() {
         ["https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/awe.svg"],
         ["http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/thehill.svg"],
         ["https://thetvapp.to/tv/cartoon-network-live-stream/", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/adultswim.svg"],
-        ["https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/nhk.svg"],
+        ["https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/nhk.svg"],
         ["https://service-stitcher.clusters.pluto.tv/v2/stitch/embed/hls/channel/5f36d726234ce10007784f2a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/bobross.svg"],
         ["https://www.rtvs.sk/embed/live/1", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/tv1.svg"],
         ["https://www.rtvs.sk/embed/live/2", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/tv2.svg"],
