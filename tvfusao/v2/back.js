@@ -19,11 +19,11 @@ function getchannels() {
         ["https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvfusao/v2/banners/rtp1.svg"],
         ["https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvfusao/v2/banners/rtp2.svg"],
         ["https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvfusao/v2/banners/rtp3.svg"],
-        ["https://d1zx6l1dn8vaj5.cloudfront.net/out/v2/b89cc37caa6d418eb423cf092a2ef970/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvfusao/v2/banners/sic.svg"],
+        ["https://sic.pt/direto", "https://backend-mrdannyarmstrong.github.io/tvfusao/v2/banners/sic.svg"],
         ["https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvfusao/v2/banners/recordtv.svg"],
         ["https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvfusao/v2/banners/sbt.svg"],
         ["https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvfusao/v2/banners/tvculture.svg"],
-        ["https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvfusao/v2/banners/redetv.svg"]
+        ["https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvfusao/v2/banners/animax.svg"]
     ];
     return channeldb;
 }
