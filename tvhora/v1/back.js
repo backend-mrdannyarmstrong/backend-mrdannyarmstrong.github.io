@@ -21,9 +21,9 @@ function getchannels() {
         ["https://www.rtvs.sk/embed/live/3", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/tv24.svg"],
         ["https://www.rtvs.sk/embed/live/15", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/tvsport.svg"],
         ["https://live.joj.sk/", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/joj.svg"],
-        ["https://media.cms.markiza.sk/embed/doma-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/marzika.svg"],
-        ["https://media.cms.markiza.sk/embed/dajto-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/doma.svg"],
-        ["https://media.cms.markiza.sk/embed/doma-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/dajto.svg"],
+        ["https://media.cms.markiza.sk/embed/markiza-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/marzika.svg"],
+        ["https://media.cms.markiza.sk/embed/doma-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/doma.svg"],
+        ["https://media.cms.markiza.sk/embed/dajto-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/banners/dajto.svg"],
     ];
     return channeldb;
 }
