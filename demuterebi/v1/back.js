@@ -1,4 +1,4 @@
-function checkupdate() {
+﻿function checkupdate() {
     needupdate = 0;
     return needupdate;
 }
@@ -14,16 +14,16 @@ function getchannels() {
         ["https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/awe.svg"],
         ["http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/thehill.svg"],
         ["https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/adultswim.svg"],
-        ["https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8", "https://mrdannyarmstrong.github.io/demuterebi/v1/banners/nhk.svg"],
-        ["https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36d726234ce10007784f2a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", "https://mrdannyarmstrong.github.io/demuterebi/v1/banners/bobross.svg"],
-        ["https://nhk4.mov3.co/hls/nhk.m3u8", "https://mrdannyarmstrong.github.io/demuterebi/v1/banners/nhkg.svg"],
-        ["https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8", "https://mrdannyarmstrong.github.io/demuterebi/v1/banners/nhke.svg"],
-        ["https://ntv4.mov3.co/hls/ntv.m3u8", "https://mrdannyarmstrong.github.io/demuterebi/v1/banners/ntv.svg"],
-        ["https://ok.ru/videoembed/8663359364737", "https://mrdannyarmstrong.github.io/demuterebi/v1/banners/tvasahi.svg"],
-        ["https://tbs5.mov3.co/hls/tbs.m3u8", "https://mrdannyarmstrong.github.io/demuterebi/v1/banners/tbsjp.svg"],
-        ["https://ok.ru/videoembed/7858423078516", "https://mrdannyarmstrong.github.io/demuterebi/v1/banners/tvtokyo.svg"],
-        ["https://fujitv4.mov3.co/hls/fujitv.m3u8", "https://mrdannyarmstrong.github.io/demuterebi/v1/banners/fujitv.svg"],
-        ["https://ok.ru/videoembed/6960395525879", "https://mrdannyarmstrong.github.io/demuterebi/v1/banners/tokyomx.svg"],
+        ["https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/nhk.svg"],
+        ["https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36d726234ce10007784f2a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/bobross.svg"],
+        ["https://nhk4.mov3.co/hls/nhk.m3u8", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/nhkg.svg"],
+        ["https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/nhke.svg"],
+        ["https://ntv4.mov3.co/hls/ntv.m3u8", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/ntv.svg"],
+        ["https://ok.ru/videoembed/8663359364737", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/tvasahi.svg"],
+        ["https://tbs5.mov3.co/hls/tbs.m3u8", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/tbsjp.svg"],
+        ["https://ok.ru/videoembed/7858423078516", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/tvtokyo.svg"],
+        ["https://fujitv4.mov3.co/hls/fujitv.m3u8", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/fujitv.svg"],
+        ["https://ok.ru/videoembed/6960395525879", "https://backend-mrdannyarmstrong.github.io/demuterebi/v1/banners/tokyomx.svg"],
     ];
     return channeldb;
 }
