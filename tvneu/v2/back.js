@@ -23,11 +23,11 @@ function getchannels() {
         ["https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvneu/v2/banners/recordtv.svg"],
         ["https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvneu/v2/banners/sbt.svg"],
         ["https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvneu/v2/banners/tvculture.svg"],
-        ["https://stmv1.srvif.com/animetv/animetv/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvneu/v2/banners/animax.svg"]
+        ["https://stmv1.srvif.com/animetv/animetv/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvneu/v2/banners/animax.svg"],
         ["NULL", "NULL"],
         ["NULL", "NULL"],
         ["NULL", "NULL"],
-        ["NULL", "NULL"],
+        ["NULL", "NULL"]
     ];
     return channeldb;
 }
