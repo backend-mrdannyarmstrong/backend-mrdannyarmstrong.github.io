@@ -27,7 +27,7 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="2.2214286"
-   inkscape:cx="140"
+   inkscape:cx="140.22508"
    inkscape:cy="140"
    inkscape:window-width="1600"
    inkscape:window-height="824"
@@ -42,7 +42,8 @@
    fill="#58489D"
    width="280"
    height="280"
-   id="rect1" />
+   id="rect1"
+   style="fill:#7749f5;fill-opacity:1" />
 
 <path
    style="fill:#ffffff;fill-opacity:1;stroke-width:0.376065"
