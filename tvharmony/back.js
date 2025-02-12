@@ -16,6 +16,7 @@ function getchannels() {
         ["NULL", "NULL"],
         ["NULL", "NULL"],
         ["NULL", "NULL"],
+        ["NULL", "NULL"],
     ];
     return channels;
 }
