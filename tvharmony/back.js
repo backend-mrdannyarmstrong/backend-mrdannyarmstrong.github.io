@@ -9,14 +9,13 @@ function getchannels() {
         ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/ch6.gif"],
         ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/ch7.gif"],
         ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/ch8.gif"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
-        ["NULL", "NULL"],
+        ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/ch9.gif"],
+        ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/ch10.gif"],
+        ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/ch11.gif"],
+        ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/ch12.gif"],
+        ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/ch13.gif"],
+        ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/ch14.gif"],
+        ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/ch15.gif"],
     ];
     return channels;
 }
