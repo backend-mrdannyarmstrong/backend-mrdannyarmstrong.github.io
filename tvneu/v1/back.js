@@ -3,7 +3,7 @@ function checkupdate() {
     return needupdate;
 }
 function geturl() {
-    url = "https://github.com/mrdannyarmstrong/TV-Neu/archive/refs/tags/2.0.zip"
+    url = "https://github.com/mrdannyarmstrong/TV-Neu/archive/refs/tags/3.0.zip"
     return url
 }
 function getchannels() {
