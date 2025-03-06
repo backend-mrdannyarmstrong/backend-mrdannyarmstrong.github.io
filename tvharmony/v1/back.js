@@ -8,13 +8,13 @@ function getchannels() {
         ["https://www.youtube.com/embed/HuOHu5XSTSk", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch5.gif"],
         ["http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch6.gif"],
         ["https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch7.gif"],
-        ["https://pluto.tv/us/live-tv/5ca673e0d0bd6c2689c94ce3", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch8.gif"],
+        ["http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5108-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5730720c-9e54-41d9-b73d-eab8fdac7291", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch8.gif"],
         ["https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch9.gif"],
         ["https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch10.gif"],
         ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch11.gif"],
         ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch12.gif"],
         ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch13.gif"],
-        ["https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch14.gif"],
+        ["https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/v1/chunklist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch14.gif"],
         ["https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch15.gif"],
     ];
     return channels;
