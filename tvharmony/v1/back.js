@@ -12,10 +12,10 @@ function getchannels() {
         ["https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch9.gif"],
         ["https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch10.gif"],
         ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch11.gif"],
-        ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch12.gif"],
-        ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch13.gif"],
-        ["https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/v1/chunklist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch14.gif"],
-        ["https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch15.gif"],
+        ["https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/v1/chunklist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch12.gif"],
+        ["https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch13.gif"],
+        ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch14.gif"],
+        ["NULL", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch15.gif"],
     ];
     return channels;
 }
