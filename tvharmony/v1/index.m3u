@@ -4,7 +4,7 @@ http://null.com/null/index.3u8
 #EXTINF:-1 tvg-id="ch2", Nature
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
 #EXTINF:-1 tvg-id="ch3", Newsy
-https://content-ause1.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37/e.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.scrippsnews.com%2F&ad.cust_params=%26inv%3Dss%3A%20on-domain%3A%20ew%20scripps%3A%20scripps%20news%3A%20desktop%3A%20unknown%3A%20web%3A%20live%26user_id%3Dundefined%26pxconfig%3Dweb-live&pbs=13477f40297541f89bf2b20f98541096
+https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
 #EXTINF:-1 tvg-id="ch4", Weather
 https://v2.weatherscan.net/
 #EXTINF:-1 tvg-id="ch5", Music

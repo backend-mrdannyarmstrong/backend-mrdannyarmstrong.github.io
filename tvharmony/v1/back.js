@@ -3,7 +3,7 @@ function getchannels() {
         ["https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8", "nochan.gif"],
         ["NULL", "NULL"],
         ["https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch2.gif"],
-        ["https://content-ause1.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37/e.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.scrippsnews.com%2F&ad.cust_params=%26inv%3Dss%3A%20on-domain%3A%20ew%20scripps%3A%20scripps%20news%3A%20desktop%3A%20unknown%3A%20web%3A%20live%26user_id%3Dundefined%26pxconfig%3Dweb-live&pbs=13477f40297541f89bf2b20f98541096", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch3.gif"],
+        ["https://livetv-fa.tubi.video/scripps-news/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch3.gif"],
         ["https://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch4.gif"],
         ["https://www.youtube.com/embed/HuOHu5XSTSk", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch5.gif"],
         ["https://tvpass.org/live/EEast/sd", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch6.gif"],
