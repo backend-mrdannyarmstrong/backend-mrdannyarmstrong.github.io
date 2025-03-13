@@ -21,16 +21,16 @@
    id="defs216276"><linearGradient
    id="linearGradient1"
    inkscape:collect="always"><stop
-     style="stop-color:#000000;stop-opacity:1;"
+     style="stop-color:#7b7b7b;stop-opacity:1;"
      offset="0"
      id="stop1" /><stop
-     style="stop-color:#717171;stop-opacity:1;"
+     style="stop-color:#535353;stop-opacity:1;"
      offset="0.49000001"
      id="stop3" /><stop
-     style="stop-color:#101010;stop-opacity:1;"
+     style="stop-color:#343434;stop-opacity:1;"
      offset="0.5"
      id="stop4" /><stop
-     style="stop-color:#6b6b6b;stop-opacity:1;"
+     style="stop-color:#2f2f2f;stop-opacity:1;"
      offset="1"
      id="stop2" /></linearGradient>
 	
@@ -54,8 +54,8 @@
    inkscape:pagecheckerboard="0"
    showgrid="false"
    inkscape:zoom="2.1011173"
-   inkscape:cx="157.29726"
-   inkscape:cy="143.97102"
+   inkscape:cx="76.387929"
+   inkscape:cy="127.31322"
    inkscape:window-width="1600"
    inkscape:window-height="837"
    inkscape:window-x="0"
