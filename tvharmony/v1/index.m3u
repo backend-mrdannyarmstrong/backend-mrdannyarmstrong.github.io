@@ -3,8 +3,8 @@
 http://null.com/null/index.3u8
 #EXTINF:-1 tvg-id="ch2", Nature
 https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8
-#EXTINF:-1 tvg-id="ch3", Newsy
-https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
+#EXTINF:-1 tvg-id="ch3", News Nation
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="ch4", Weather
 https://v2.weatherscan.net/
 #EXTINF:-1 tvg-id="ch5", Music

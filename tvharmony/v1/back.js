@@ -3,7 +3,7 @@ function getchannels() {
         ["https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8", "nochan.gif"],
         ["NULL", "NULL"],
         ["https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch2.gif"],
-        ["https://livetv-fa.tubi.video/scripps-news/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch3.gif"],
+        ["http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch3.gif"],
         ["https://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch4.gif"],
         ["https://www.youtube.com/embed/HuOHu5XSTSk", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch5.gif"],
         ["https://tvpass.org/live/EEast/sd", "https://backend-mrdannyarmstrong.github.io/tvharmony/v1/ch6.gif"],
