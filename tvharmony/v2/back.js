@@ -4,7 +4,7 @@ function getchannels() {
         ["NULL", "NULL"],
         ["https://apollo.production-public.tubi.io/live/ac-bbc-earth2.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v2/ch2.gif"],
         ["https://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/tvharmony/v2/ch3.gif"],
-		["https://who13.com/on-air/live-streaming/", "https://backend-mrdannythub.io/tvharmony/v2/ch4.gif"],
+		["https://who13.com/on-air/live-streaming/", "https://backend-mrdannyarmstrong.github.io/tvharmony/v2/ch4.gif"],
 		["http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvharmony/v2/ch5.gif"],
         ["https://www.youtube.com/embed/HuOHu5XSTSk", "https://backend-mrdannyarmstrong.github.io/tvharmony/v2/ch6.gif"],
         ["https://tvpass.org/live/EEast/sd", "https://backend-mrdannyarmstrong.github.io/tvharmony/v2/ch7.gif"],
