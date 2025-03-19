@@ -15,7 +15,7 @@ function getchannels() {
         ["http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvneu/v3/banners/paramount.svg"],
         ["http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvneu/v3/banners/newsnation.svg"],
         ["https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8", "https://backend-mrdannyarmstrong.github.io/tvneu/v3/banners/adultswim.svg"],
-        ["https://service-stitcher.clusters.pluto.tv/v3/stitch/embed/hls/channel/5f36d726234ce10007784f2a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS", "https://backend-mrdannyarmstrong.github.io/tvneu/v3/banners/bobross.svg"],
+        ["https://fdezwonders.github.io/intellistar-2-hd-emulator/", "https://backend-mrdannyarmstrong.github.io/tvneu/v3/banners/weather.svg"],
         ["https://www.rtp.pt/play/direto/rtp1", "https://backend-mrdannyarmstrong.github.io/tvneu/v3/banners/rtp1.svg"],
         ["https://canaleducacao-stream.ebc.com.br/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvneu/v3/banners/educao.svg"],
         ["https://geo.dailymotion.com/player/xgrus.html?video=kYe5OYErhldJ75Azib2", "https://backend-mrdannyarmstrong.github.io/tvneu/v3/banners/redetv.svg"],
