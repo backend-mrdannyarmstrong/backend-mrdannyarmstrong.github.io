@@ -10,7 +10,6 @@ function getchannels() {
         ["https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvchrome/ch8.gif"],
         ["http://vthanh.utako.moe/NHK_G/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvchrome/ch9.gif"],
         ["http://vthanh.utako.moe/NHK_E/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvchrome/ch10.gif"],
-        ["https://ntv4.mov3.co/hls/ntv.m3u8", "https://backend-mrdannyarmstrong.github.io/tvchrome/ch10.gif"],
         ["http://vthanh.utako.moe/TV_Asahi/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvchrome/ch11.gif"],
         ["https://tbs5.mov3.co/hls/tbs.m3u8", "https://backend-mrdannyarmstrong.github.io/tvchrome/ch12.gif"],
         ["https://fujitv4.mov3.co/hls/fujitv.m3u8", "https://backend-mrdannyarmstrong.github.io/tvchrome/ch13.gif"]
