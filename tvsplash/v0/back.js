@@ -13,7 +13,9 @@ function getchannels() {
         ["https://ntv4.mov3.co/hls/ntv.m3u8", "https://backend-mrdannyarmstrong.github.io/tvsplash/v0/ch10.gif"],
         ["http://vthanh.utako.moe/TV_Asahi/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvsplash/v0/ch11.gif"],
         ["https://tbs5.mov3.co/hls/tbs.m3u8", "https://backend-mrdannyarmstrong.github.io/tvsplash/v0/ch12.gif"],
-        ["http://vthanh.utako.moe/Fuji_TV/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvsplash/v0/ch13.gif"]
+        ["http://vthanh.utako.moe/Fuji_TV/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvsplash/v0/ch13.gif"],
+        ["NULL", "NULL"],
+        ["NULL", "NULL"]
     ];
     return channels;
 }
