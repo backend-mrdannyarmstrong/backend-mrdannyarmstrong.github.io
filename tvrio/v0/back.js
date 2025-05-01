@@ -18,7 +18,7 @@ function getchannels() {
         ["https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5812b7d3249444e05d09cc49&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=830&terminate=false&userId=", "https://backend-mrdannyarmstrong.github.io/tvrio/v0/banners/animeallday.png"],
         ["https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8", "https://backend-mrdannyarmstrong.github.io/tvrio/v0/banners/tvcultura.png"],
         ["https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvrio/v0/banners/recordtv.png"],
-        ["https://streaming.portaltvparaense.com.br/hls/rtp.m3u8", "https://backend-mrdannyarmstrong.github.io/tvrio/v0/banners/sbt.png"],
+        ["https://www.youtube.com/embed/mBvpA1gOUos", "https://backend-mrdannyarmstrong.github.io/tvrio/v0/banners/sbt.png"],
         ["https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvrio/v0/banners/redebrasil.png"]
         
     ];
