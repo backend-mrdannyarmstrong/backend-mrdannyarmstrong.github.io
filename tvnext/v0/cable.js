@@ -3,7 +3,7 @@
         ["index.html", "NULL"],
         ["index3.html#https://livetv-fa.tubi.video/bbc-earth2/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvnext/v0/ch1.png"],
         ["index2.html#https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/tvnext/v0/ch2.png"],
-        ["index3.html#http://fl7.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvnext/v0/ch3.png"],
+        ["index3.html#https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvnext/v0/ch3.png"],
         ["index2.html#http://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/tvnext/v0/ch4.png"],
         ["index.html", "NULL"],
     ];
