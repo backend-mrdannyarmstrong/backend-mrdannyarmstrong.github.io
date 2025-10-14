@@ -5,7 +5,7 @@
         ["https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch2.png"],
         ["index2.html#https://fl7.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch3.png"],
         ["http://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch4.png"],
-        ["https://tvpass.org/live/EEast/sd", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch5.png"],
+        ["index2.html#https://fl7.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch5.png"],
         ["index2.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch6.png"],
         ["index2.html#http://api.toonamiaftermath.com:3000/est/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch7.png"],
         ["index2.html#https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch8.png"],
