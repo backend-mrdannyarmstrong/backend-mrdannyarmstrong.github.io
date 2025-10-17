@@ -5,7 +5,7 @@
         ["index3.html#https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch2.png"],
         ["index3.html#https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch3.png"],
         ["index2.html#http://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch4.png"],
-        ["index3.html#", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch5.png"],
+        ["index3.html#https://fl41.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch5.png"],
         ["index3.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch6.png"],
         ["index3.html#", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch7.png"],
         ["index3.html#https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch8.png"],
