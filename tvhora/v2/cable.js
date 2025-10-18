@@ -30,7 +30,7 @@ function getchinfo() {
         ["Channel Name", "Channel Description"],
         ["Channel Name", "Channel Description"],
         ["BBC Earth", "Nature documentaries"],
-        ["News Nation", "Non bias news 24/7"],
+        ["The Hill", "Non bias news 24/7"],
         ["Weather Scan", "Weather Service 24/7"],
         ["E!", "TV Shows and other entertainment"],
         ["Cartoon Network", "Cartoons 24/7"],
