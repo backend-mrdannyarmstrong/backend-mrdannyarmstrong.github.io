@@ -7,7 +7,7 @@
         ["http://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch4.png"],
         ["index2.html#https://fl41.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch5.png"],
         ["index2.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch6.png"],
-        ["index2.html#https://pluto.tv/us/live-tv/645e7828e1979c00087b75b4", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch7.png"],
+        ["index2.html#https://livetv-fa.tubi.video/moviesphere/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch7.png"],
         ["index2.html#https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch8.png"],
         ["https://www.youtube.com/embed/HuOHu5XSTSk", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch9.png"],
         ["https://www.stvr.sk/embed/live/1", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch10.png"],
