@@ -1,7 +1,6 @@
 ﻿function getchannels() {
     let channeldb = [
         ["index.html", "NULL"],
-        ["index.html", "NULL"],
         ["index2.html#https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch2.png"],
         ["index3.html#https://fl41.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch3.png"],
         ["index2.html#http://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch4.png"],
@@ -27,7 +26,6 @@
 
 function getchinfo() {
     let chinfodb = [
-        ["Channel Name", "Channel Description"],
         ["Channel Name", "Channel Description"],
         ["Bob Ross", "Joy of Painting"],
         ["News Nation", "Non bias news 24/7"],

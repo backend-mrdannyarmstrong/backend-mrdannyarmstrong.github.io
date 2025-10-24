@@ -1,7 +1,6 @@
 ﻿function getchannels() {
     let channeldb = [
         ["index.html", "NULL"],
-        ["index.html", "NULL"],
         ["https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch2.png"],
         ["index2.html#https://fl41.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch3.png"],
         ["http://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch4.png"],
