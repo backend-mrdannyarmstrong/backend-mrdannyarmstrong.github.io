@@ -8,7 +8,7 @@
         ["index3.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch5.png"],
         ["index3.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch6.png"],
         ["index3.html#https://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch7.png"],
-        ["index2.html#https://www.youtube.com/embed/kphU6W3XxDQ", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch6.png"],
+        ["index2.html#https://www.youtube.com/embed/kphU6W3XxDQ", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch8.png"],
         ["index2.html#https://www.stvr.sk/embed/live/1", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch9.png"],
         ["index2.html#https://www.stvr.sk/embed/live/2", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch10.png"],
         ["index2.html#https://www.stvr.sk/embed/live/3", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch11.png"],
