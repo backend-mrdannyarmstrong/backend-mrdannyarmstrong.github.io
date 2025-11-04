@@ -10,7 +10,6 @@
         ["index2.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v1/ch7.png"],
         ["index2.html#https://fl41.moveonjoy.com/FOX_Sports_1/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v1/ch8.png"],
         ["https://www.youtube.com/embed/kphU6W3XxDQ", "https://backend-mrdannyarmstrong.github.io/tvazul/v1/ch9.png"],
-        ["index2.html#https://www.youtube.com/embed/kphU6W3XxDQ", "https://backend-mrdannyarmstrong.github.io/tvazul/v1/ch9.png"],
         ["index2.html#https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v1/ch10.png"],
         ["index2.html#https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v1/ch11.png"],
         ["index2.html#https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v1/ch12.png"],
