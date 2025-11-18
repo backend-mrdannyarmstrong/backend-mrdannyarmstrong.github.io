@@ -19,6 +19,8 @@
         ["https://media.joj.sk/embed/3Yz1gBQeKTs?autoplay=1", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch16.png"],
         ["https://media.joj.sk/embed/DKZwKhUlV3i?autoplay=1", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch17.png"],
         ["https://media.joj.sk/embed/3al7RoqzT3y?autoplay=1", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch18.png"],
+        ["index2.html#https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch19.png"],
+        ["index2.html#https://live.cdn.joj.sk/live/andromeda/family-720.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch20.png"],
         ["https://media.cms.markiza.sk/embed/markiza-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch21.png"],
         ["https://media.cms.markiza.sk/embed/doma-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch22.png"],
         ["https://media.cms.markiza.sk/embed/dajto-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch23.png"],
