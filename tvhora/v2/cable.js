@@ -58,6 +58,8 @@ function getchinfo() {
         ["TV JOJ", "Televízne programy a filmy"],
         ["JOJ Plus", "Americké televízne relácie"],
         ["JOJ WAU", "Prémiový televízny kanál"],
+        ["JOJ Family", "Rodinné relácie a filmy"],
+        ["JOJ Cinema", "Filmy"],
         ["Marzika", "Rodinný obsah"],
         ["Doma", "Televízne relácie pre ženy"],
         ["Dajto", "Televízne relácie pre mužov"],
