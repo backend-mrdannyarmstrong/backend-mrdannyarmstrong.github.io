@@ -24,6 +24,14 @@
         ["index2.html#https://media.cms.markiza.sk/embed/markiza-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch21.png"],
         ["index2.html#https://media.cms.markiza.sk/embed/doma-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch22.png"],
         ["index2.html#https://media.cms.markiza.sk/embed/dajto-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch23.png"],
+        ["index3.html#https://us1001.utako.moe/NHK_G/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch24.png"],
+        ["index3.html#https://us1001.utako.moe/NHK_E/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch25.png"],
+        ["index3.html#https://us1001.utako.moe/Nippon_TV/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch26.png"],
+        ["index3.html#https://us1001.utako.moe/TV_Asahi/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch27.png"],
+        ["index3.html#https://us1001.utako.moe/TBS/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch28.png"],
+        ["index3.html#https://us1001.utako.moe/TV_Tokyo/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch29.png"],
+        ["index3.html#https://us1001.utako.moe/Fuji_TV/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch30.png"],
+        ["index3.html#https://us1001.utako.moe/Tokyo_MX1/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch31.png"],
         ["index.html", "NULL"],
     ];
     return channeldb;
@@ -53,6 +61,14 @@ function getchinfo() {
         ["Marzika", "Rodinný obsah"],
         ["Doma", "Televízne relácie pre ženy"],
         ["Dajto", "Televízne relácie pre mužov"],
+        ["NHK-G", "一般的なコンテンツ"],
+        ["NHK-E", "教育コンテンツ"],
+        ["NTV", "テレビ番組とニュース"],
+        ["TV Asahi", "バラエティ番組"],
+        ["TBS", "テレビ番組"],
+        ["TV Tokyo", "テレビ番組とアニメ"],
+        ["Fuji TV", "テレビ番組とアニメ"],
+        ["Tokyo MX", "アニメ"],
         ["Channel Name", "Channel Description"],
     ];
     return chinfodb;

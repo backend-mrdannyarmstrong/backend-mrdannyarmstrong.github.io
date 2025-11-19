@@ -24,6 +24,14 @@
         ["https://media.cms.markiza.sk/embed/markiza-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch21.png"],
         ["https://media.cms.markiza.sk/embed/doma-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch22.png"],
         ["https://media.cms.markiza.sk/embed/dajto-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch23.png"],
+        ["index2.html#https://us1001.utako.moe/NHK_G/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch24.png"],
+        ["index2.html#https://us1001.utako.moe/NHK_E/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch25.png"],
+        ["index2.html#https://us1001.utako.moe/Nippon_TV/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch26.png"],
+        ["index2.html#https://us1001.utako.moe/TV_Asahi/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch27.png"],
+        ["index2.html#https://us1001.utako.moe/TBS/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch28.png"],
+        ["index2.html#https://us1001.utako.moe/TV_Tokyo/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch29.png"],
+        ["index2.html#https://us1001.utako.moe/Fuji_TV/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch30.png"],
+        ["index2.html#https://us1001.utako.moe/Tokyo_MX1/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v2/ch31.png"],
     ];
     return channeldb;
 }
