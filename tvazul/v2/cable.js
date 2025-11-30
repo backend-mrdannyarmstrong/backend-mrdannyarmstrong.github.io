@@ -49,7 +49,7 @@ function getchinfo() {
         ["TVI Africa", "Espetáculos de comédia"],
         ["TVI Ficao", "Telenovelas"],
         ["V+", "Conteúdo variado"],
-        ["Sony Canal"], ["Canal de filmes"],
+        ["Sony Canal", "Canal de filmes"],
         ["Cartoon Network Portugal", "Canal de desenhos animados"],
         ["Channel Name", "Channel Description"],
     ];
