@@ -17,11 +17,9 @@
         ["index3.html#https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch14.png"],
         ["index3.html#https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch15.png"],
         ["index3.html#https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch16.png"],
-        ["index3.html#https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch17.png"],
-        ["index3.html#https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch18.png"],
-        ["index3.html#https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch19.png"],
-        ["index2.html#https://embedtv-5.icu/sonychannel", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch20.png"],
-        ["index2.html#https://embedtv-5.icu/cartoonnetwork", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch21.png"],
+        ["index3.html#https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch17.png"],
+        ["index2.html#https://embedtv-5.icu/sonychannel", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch18.png"],
+        ["index2.html#https://embedtv-5.icu/cartoonnetwork", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch19.png"],
         ["index.html", "NULL"],
     ];
     return channeldb;
