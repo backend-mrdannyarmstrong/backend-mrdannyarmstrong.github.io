@@ -9,7 +9,7 @@
         ["index2.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch6.png"],
         ["index2.html#http://api.toonamiaftermath.com:3000/est/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch7.png"],
         ["index2.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch8.png"],
-        ["index2.html#https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch9.png"],
+        ["index2.html#https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch9.png"],
         ["index2.html#https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch10.png"],
         ["https://www.youtube.com/embed/0T31WVsL9Ro", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch11.png"],
         ["index2.html#https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch12.png"],
@@ -19,7 +19,9 @@
         ["index2.html#https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch16.png"],
         ["index2.html#https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch17.png"],
         ["index2.html#https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch18.png"],
-        ["index2.html#https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch19.png"],
+        ["index2.html#https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch19.png"],
+        ["index2.html#https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch20.png"],
+        ["index2.html#https://video-auth6.iol.pt/edge_servers/cnn-480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDI1IDI6ODozMSBQTSZoYXNoX3ZhbHVlPUJWOG1KLytmY1U4OXhoTzlVTFA0TEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NjM1MDE5OS01MGMzLTQ1ZjUtYWUyZi0zNjE1NTRmMDNlMmQ=", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch21.png"],
         
     ];
     return channeldb;
