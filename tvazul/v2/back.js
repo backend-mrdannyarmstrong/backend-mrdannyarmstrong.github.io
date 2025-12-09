@@ -22,6 +22,8 @@
         ["index2.html#https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch19.png"],
         ["index2.html#https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch20.png"],
         ["index2.html#https://video-auth6.iol.pt/edge_servers/cnn-480p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDI1IDI6ODozMSBQTSZoYXNoX3ZhbHVlPUJWOG1KLytmY1U4OXhoTzlVTFA0TEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01NjM1MDE5OS01MGMzLTQ1ZjUtYWUyZi0zNjE1NTRmMDNlMmQ=", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch21.png"],
+        ["index2.html#https://embedtv-5.icu/sonychannel", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch22.png"],
+        ["index2.html#https://embedtv-5.icu/cartoonnetwork", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch23.png"],
         
     ];
     return channeldb;
