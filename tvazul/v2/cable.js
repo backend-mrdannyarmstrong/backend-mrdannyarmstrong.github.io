@@ -27,7 +27,7 @@
         ["index.html", "NULL"],
     ];
     return channeldb;
-}
+} 
 
 function getchinfo() {
     let chinfodb = [
