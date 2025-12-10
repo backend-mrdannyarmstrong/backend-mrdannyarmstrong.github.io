@@ -21,7 +21,7 @@
         ["index3.html#https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch18.png"],
         ["index3.html#https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch19.png"],
         ["index3.html#https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch20.png"],
-        ["index2.html#https://cnnportugal.iol.pt/diret", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch21.png"],
+        ["index2.html#https://cnnportugal.iol.pt/direto", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch21.png"],
         ["index2.html#https://embedtv-5.icu/sonychannel", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch22.png"],
         ["index2.html#https://embedtv-5.icu/cartoonnetwork", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch23.png"],
         ["index.html", "NULL"],
