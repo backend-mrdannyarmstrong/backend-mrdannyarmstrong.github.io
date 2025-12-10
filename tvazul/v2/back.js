@@ -11,7 +11,7 @@
         ["index2.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch8.png"],
         ["index2.html#https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch9.png"],
         ["index2.html#https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch10.png"],
-        ["https://www.youtube.com/embed/0T31WVsL9Ro", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch11.png"],
+        ["https://backend-mrdannyarmstrong.github.io/tvazul/v2/yt/ch11.html", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch11.png"],
         ["index2.html#https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch12.png"],
         ["index2.html#https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch13.png"],
         ["index2.html#https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch14.png"],
