@@ -2,8 +2,6 @@
     let channeldb = [
         ["index.html", "NULL"],
         ["index.html", "NULL"],
-        ["index.html", "NULL"],
-        ["index.html", "NULL"],
         ["index3.html#https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/retro/ch2.png"],
         ["index3.html#https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/retro/ch3.png"],
         ["index2.html#http://v1.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/retro/ch4.png"],
