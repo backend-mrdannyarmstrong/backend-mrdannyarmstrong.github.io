@@ -21,9 +21,13 @@
         ["index2.html#https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch18.png"],
         ["index2.html#https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch19.png"],
         ["index2.html#https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch20.png"],
-        ["https://cnnportugal.iol.pt/direto", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch21.png"],
-        ["https://embedtv-5.icu/sonychannel", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch22.png"],
-        ["https://embedtv-5.icu/cartoonnetwork", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch23.png"],
+        ["index2.html#https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch21.png"],
+        ["index2.html#https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch22.png"],
+        ["index2.html#https://globallive.tdm.com.mo/ch2/ch2.live/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch23.png"],
+        ["index2.html#https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch24.png"],
+        ["https://cnnportugal.iol.pt/direto", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch25.png"],
+        ["https://embedtv-5.icu/sonychannel", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch26.png"],
+        ["https://embedtv-5.icu/cartoonnetwork", "https://backend-mrdannyarmstrong.github.io/tvazul/v2/ch27.png"],
         
     ];
     return channeldb;
