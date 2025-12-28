@@ -46,7 +46,7 @@ function getchinfo() {
         ["Weather Scan", "Weather info 24/7"],
         ["E!", "The most popular movies and TV shows"],
         ["Cartoon Network", "Cartoons"],
-        ["Toonami Aftermath", "Cartoons and Anime"],
+        ["Adult Swim", "Cartoons for adults."],
         ["TNT", "Movies TV shows and sports"],
         ["AMC", "Movies and TV shows"],
         ["Fox Sports", "Sports coverage"],
