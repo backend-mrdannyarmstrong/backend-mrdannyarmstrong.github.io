@@ -3,7 +3,7 @@
         ["index.html", "NULL"],
         ["index2.html#https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch1.png"],
         ["index3.html#https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch2.png"],
-        ["index2.html#https://www.wwlp.com/watch-live/", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch4.png"],
+        ["index2.html#https://www.wwlp.com/watch-live/", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch3.png"],
         ["index2.html#http://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch4.png"],
         ["index3.html#https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch5.png"],
         ["index3.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch6.png"],
