@@ -25,6 +25,8 @@
         ["https://media.cms.markiza.sk/embed/markiza-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch22.png"],
         ["https://media.cms.markiza.sk/embed/doma-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch23.png"],
         ["https://media.cms.markiza.sk/embed/dajto-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch24.png"],
+        ["index2.html#https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch25.png"],
+        ["index2.html#https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch26.png"],
         ["index.html", "NULL"],
     ];
     return channeldb;

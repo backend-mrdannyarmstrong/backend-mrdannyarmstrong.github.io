@@ -25,6 +25,8 @@
         ["index2.html#https://media.cms.markiza.sk/embed/markiza-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch22.png"],
         ["index2.html#https://media.cms.markiza.sk/embed/doma-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch23.png"],
         ["index2.html#https://media.cms.markiza.sk/embed/dajto-live?autoplay=any", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch24.png"],
+        ["index3.html#https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch25.png"],
+        ["index3.html#https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v1/ch26.png"],
         ["index.html", "NULL"],
     ];
     return channeldb;
@@ -57,6 +59,8 @@ function getchinfo() {
         ["Marzika", "Rodinný obsah"],
         ["Doma", "Televízne relácie pre ženy"],
         ["Dajto", "Televízne relácie pre mužov"],
+        ["CS History", "Historický kanál"],
+        ["CS Film", "Filmový kanál"],
         ["Channel Name", "Channel Description"],
     ];
     return chinfodb;
