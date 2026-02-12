@@ -1,0 +1,67 @@
+﻿function getchannels() {
+    let channeldb = [
+        "index.html",
+        "index2.html#https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a",
+        "index3.html#https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8",
+        "index2.html#https://www.wwlp.com/watch-live/",
+        "index2.html#http://v2.weatherscan.net/",
+        "index3.html#https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
+        "index3.html#https://retroblast.tv/hls/stream.m3u8",
+        "index3.html#https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8",
+        "index3.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8",
+        "index3.html#https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8",
+        "index3.html#https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8",
+        "index3.html#https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
+        "index2.html#https://backend-mrdannyarmstrong.github.io/tvhora/v2/yt/ch11.html",
+        "index2.html#https://sweet.tv/sk/tv/847-jednotka-hd",
+        "index2.html#https://sweet.tv/sk/tv/848-dvojka-hd",
+        "index2.html#https://sweet.tv/sk/tv/849-24-hd",
+        "index2.html#https://sweet.tv/sk/tv/850-sport-hd",
+        "index2.html#https://media.joj.sk/embed/3Yz1gBQeKTs?autoplay=1",
+        "index2.html#https://media.joj.sk/embed/DKZwKhUlV3i?autoplay=1",
+        "index2.html#https://media.joj.sk/embed/3al7RoqzT3y?autoplay=1",
+        "index3.html#https://live.cdn.joj.sk/live/andromeda/family-720.m3u8",
+        "index3.html#https://live.cdn.joj.sk/live/andromeda/cinema-720.m3u8",
+        "index2.html#https://media.cms.markiza.sk/embed/markiza-live?autoplay=any",
+        "index2.html#https://media.cms.markiza.sk/embed/doma-live?autoplay=any",
+        "index2.html#https://media.cms.markiza.sk/embed/dajto-live?autoplay=any",
+        "index3.html#https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8",
+        "index3.html#https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8",
+        "index.html"
+    ];
+    return channeldb;
+}
+
+function getchinfo() {
+    let chinfodb = [
+        ["Channel Name", "Channel Description"],
+        ["Bob Ross", "Joy of Painting"],
+        ["News Nation", "Non bias news 24/7"],
+        ["WWLP", "Local News 24/7"],
+        ["Weather Scan", "Weather info 24/7"],
+        ["E!", "The most popular movies and TV shows"],
+        ["Cartoon Network", "Cartoons"],
+        ["Adult Swim", "Cartoons for adults."],
+        ["TNT", "Movies TV shows and sports"],
+        ["AMC", "Movies and TV shows"],
+        ["Fox Sports", "Sports coverage"],
+        ["BBC Earth", "Nature Documentaries"],
+        ["Zen Music", "Relaxing music"],
+        ["RTVS 1", "Všeobecný obsah"],
+        ["RTVS 2", "Všeobecný a vzdelávací obsah"],
+        ["RTVS 24", "Správy 24 hodín denne, 7 dní v týždni"],
+        ["RTVS SPORT", "Šport 24 hodín denne, 7 dní v týždni"],
+        ["TV JOJ", "Televízne programy a filmy"],
+        ["JOJ Plus", "Americké televízne relácie"],
+        ["JOJ WAU", "Prémiový televízny kanál"],
+        ["JOJ Family", "Rodinné relácie a filmy"],
+        ["JOJ Cinema", "Filmy"],
+        ["Marzika", "Rodinný obsah"],
+        ["Doma", "Televízne relácie pre ženy"],
+        ["Dajto", "Televízne relácie pre mužov"],
+        ["CS History", "Historický kanál"],
+        ["CS Film", "Filmový kanál"],
+        ["Channel Name", "Channel Description"],
+    ];
+    return chinfodb;
+}
