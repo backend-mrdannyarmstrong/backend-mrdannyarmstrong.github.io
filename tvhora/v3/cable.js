@@ -27,6 +27,7 @@
         ["index3.html#https://nl.utako.moe/TV_Tokyo/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch24.png"],
         ["index3.html#https://nl.utako.moe/Fuji_TV/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch25.png"],
         ["index3.html#https://nl.utako.moe/Tokyo_MX1/index.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch26.png"],
+        ["index3.html#https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch27.png"],
         ["index2.html#https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch28.png"],
         ["index3.html#https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch29.png"],
         ["index2.html#https://www.wwlp.com/watch-live/", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch30.png"],
