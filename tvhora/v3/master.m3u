@@ -1,0 +1,125 @@
+#EXTM3U
+
+#EXTINF:-1,RTVS 1
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8
+
+#EXTINF:-1,RTVS 2
+https://n5.stv.livebox.sk/stv-tv/addfd31846e34200883cc2b4e9e6c855/stv2.smil/playlist.m3u8
+
+#EXTINF:-1,RTVS 24
+http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
+
+#EXTINF:-1,RTVS SPORT
+http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
+
+#EXTINF:-1,TV JOJ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:http-referrer=https://live.cdn.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj-1080.m3u8
+
+#EXTINF:-1,JOJ Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:http-referrer=https://live.cdn.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/plus-1080.m3u8
+
+#EXTINF:-1,JOJ WAU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:http-referrer=https://live.cdn.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/wau-1080.m3u8
+
+#EXTINF:-1,JOJ Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:http-referrer=https://live.cdn.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_sport-1080.m3u8
+
+#EXTINF:-1,JOJ 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:http-referrer=https://live.cdn.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/joj_news-1080.m3u8
+
+#EXTINF:-1,JOJ Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:http-referrer=https://live.cdn.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/family-1080.m3u8
+
+#EXTINF:-1,JOJ Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:http-referrer=https://live.cdn.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cinema-1080.m3u8
+
+#EXTINF:-1,JOJko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:http-referrer=https://live.cdn.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/jojko-1080.m3u8
+
+#EXTINF:-1,Marzika
+https://cmesk-ott-live-avod-sec.ssl.cdn.cra.cz/sMr6GxV28mpOmWJEnTz9Kw==,1771052185/channels/cme-sk-markiza_avod/playlist/slo/live_hq.m3u8?offsetSeconds=0&url=0
+
+#EXTINF:-1,Doma
+https://cmesk-ott-live-avod-sec.ssl.cdn.cra.cz/RTUBMVnGB0jHi6o4gmP8tQ==,1771052231/channels/cme-sk-doma_avod/playlist/slo/live_hq.m3u8?offsetSeconds=0&url=0
+
+#EXTINF:-1,Dajto
+https://cmesk-ott-live-avod-sec.ssl.cdn.cra.cz/CA9qmiShfTG6e0GKfYlkkQ==,1771052267/channels/cme-sk-dajto_avod/playlist/slo/live_hq.m3u8?offsetSeconds=0&url=0
+
+#EXTINF:-1,CS History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:http-referrer=https://live.cdn.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8
+
+#EXTINF:-1,CS Film
+#EXTVLCOPT:http-referrer=https://live.cdn.joj.sk/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8
+
+#EXTINF:-1,CS Mystery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+#EXTVLCOPT:http-referrer=https://live.cdn.joj.sk/
+https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8
+
+#EXTINF:-1,NHK-G
+https://nl.utako.moe/NHK_G/index.m3u8
+
+#EXTINF:-1,NHK-E
+https://nl.utako.moe/NHK_E/index.m3u8
+
+#EXTINF:-1,NTV
+https://nl.utako.moe/Nippon_TV/index.m3u8
+
+#EXTINF:-1,TV Asahi
+https://nl.utako.moe/TV_Asahi/index.m3u8
+
+#EXTINF:-1,TBS
+https://nl.utako.moe/TBS/index.m3u8
+
+#EXTINF:-1,TV Tokyo
+https://nl.utako.moe/TV_Tokyo/index.m3u8
+
+#EXTINF:-1,Fuji TV
+https://nl.utako.moe/Fuji_TV/index.m3u8
+
+#EXTINF:-1,Tokyo MX
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1,NHK World
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1,Bob Ross
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f36d726234ce10007784f2a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=68a91069-a7cb-42a1-9a47-e7fdffbec715
+
+#EXTINF:-1,Newsy
+https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
+
+#EXTINF:-1,WWLP
+https://www.wwlp.com/watch-live/
+
+#EXTINF:-1,Weather Scan
+http://v2.weatherscan.net/
+
+#EXTINF:-1,Cartoon Network
+https://retroblast.tv/hls/stream.m3u8
+
+#EXTINF:-1,Adult Swim
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1,TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
