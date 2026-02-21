@@ -59,7 +59,7 @@ function getchinfo() {
         ["Dajto", "Televízne relácie pre mužov"],
         ["CS History", "Historický kanál"],
         ["CS Film", "Filmový kanál"],
-        ["CS Mystery", "Mysteriózne filmy"],z
+        ["CS Mystery", "Mysteriózne filmy"],
         ["NHK-G", "一般的なコンテンツ"],
         ["NHK-E", "教育コンテンツ"],
         ["NTV", "テレビ番組とニュース"],
