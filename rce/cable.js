@@ -1,7 +1,7 @@
 function getchannels() {
     let channeldb = [
-        "index.html",
-        "index.html",
+        "index4.html",
+        "index4.html",
         "index2.html#https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a",
         "index3.html#https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8",
         "index2.html#https://www.wwlp.com/watch-live/",
