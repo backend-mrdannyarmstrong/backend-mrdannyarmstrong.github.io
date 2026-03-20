@@ -1,6 +1,6 @@
 ﻿function getchannels() {
     let channeldb = [
-        ["index.html", "NULL"],
+        ["index4.html", "NULL"],
         ["index2.html#https://sweet.tv/sk/tv/847-jednotka-hd", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch1.png"],
         ["index2.html#https://sweet.tv/sk/tv/848-dvojka-hd", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch2.png"],
         ["index2.html#https://sweet.tv/sk/tv/849-24-hd", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch3.png"],
@@ -35,7 +35,7 @@
         ["index3.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch32.png"],
         ["index3.html#https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch33.png"],
         ["index3.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/tvhora/v3/ch34.png"],
-        ["index4.html", "NULL"],
+        ["index.html", "NULL"],
     ];
     return channeldb;
 }
