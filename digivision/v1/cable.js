@@ -30,11 +30,9 @@
         ["index3.html#https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch27.png"],
         ["index2.html#https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch28.png"],
         ["index3.html#https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch29.png"],
-        ["index2.html#https://www.wwlp.com/watch-live/", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch30.png"],
-        ["index2.html#http://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch31.png"],
-        ["index3.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch32.png"],
-        ["index3.html#https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch33.png"],
-        ["index3.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch34.png"],
+        ["index2.html#http://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch30.png"],
+        ["index3.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch31.png"],
+        ["index3.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch32.png"],
         ["index.html", "NULL"],
     ];
     return channeldb;
