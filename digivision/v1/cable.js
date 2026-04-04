@@ -108,7 +108,7 @@ function getwebchannels() {
         ["index2.html#https://nl.utako.moe/Tokyo_MX1/index.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch26.png"],
         ["index2.html#https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch27.png"],
         ["https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch28.png"],
-        ["index2.html#https://dcs-live-uw1.mp.lura.live/server/play/Y0pz536hgQmwhvKj/rendition.m3u8?track=video-1&anvsid=m177610504-n010ae65f5520bc4da24d386fcd861d6f&ts=1775314593&anvtrid=a94f80267e2bdfbe10f923a2380a5a55", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch29.png"],
+        ["https://ntv.cx/embed?t=VzdwekdHWjF5RmJWT2o3d0VPbFFnemNkcE1TcHVmRCt4VEgzS2dOK0RDN211ZEd3ald5c3AvU0FjU0l1L1VzUw~~", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch29.png"],
         ["http://v1.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch30.png"],
         ["index2.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch31.png"],
         ["index2.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch32.png"],
