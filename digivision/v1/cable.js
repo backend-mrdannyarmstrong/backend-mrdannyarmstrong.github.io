@@ -41,7 +41,6 @@
         ["index3.html#https://asp7.toonamiaftermath.com/livehttporigin/est/Ibd7c5-xHCbpk-playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch38.png"],
         ["index3.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch39.png"],
         ["index2.html#https://backend-mrdannyarmstrong.github.io/digivision/v1/yt/zen.html", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch40.png"],
-        ["index2.html#https://backend-mrdannyarmstrong.github.io/digivision/v1/yt/eid.html", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch41.png"],
         ["index.html", "NULL"],
     ];
     return channeldb;
@@ -90,7 +89,6 @@ function getchinfo() {
         ["Toonami Aftermath", "Cartoons and Anime"],
         ["TNT", "Movies TV shows and sports"],
         ["Zen Music", "Traditional Asian music 24/7"],
-        ["EID", "vivaj novaĵoj 24/7"],
         ["Channel Name", "Channel Description"],
     ];
     return chinfodb;
@@ -138,7 +136,6 @@ function getwebchannels() {
         ["index2.html#https://asp7.toonamiaftermath.com/livehttporigin/est/Ibd7c5-xHCbpk-playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch38.png"],
         ["index2.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch39.png"],
         ["https://backend-mrdannyarmstrong.github.io/digivision/v1/yt/zen.html", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch40.png"],
-        ["https://backend-mrdannyarmstrong.github.io/digivision/v1/yt/eid.html", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch41.png"],
     ];
     return channeldb;
 }
