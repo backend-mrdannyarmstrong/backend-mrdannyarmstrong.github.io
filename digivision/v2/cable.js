@@ -64,7 +64,7 @@ function getchinfo() {
         ["Cartoon Network", "Cartoons"],
         ["Toonami Aftermath", "Cartoons and Anime"],
         ["TNT", "Movies TV shows and sports"],
-        ["Zen Music", "Traditional Asian music 24/7"],
+        ["Tao Music", "Traditional Asian music 24/7"],
         ["Channel Name", "Channel Description"],
     ];
     return chinfodb;
