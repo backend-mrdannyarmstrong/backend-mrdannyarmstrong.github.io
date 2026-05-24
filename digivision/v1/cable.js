@@ -43,10 +43,10 @@
 function getchinfo() {
     let chinfodb = [
         ["Channel Name", "Channel Description"],
-        ["RTVS 1", "Všeobecný obsah"],
-        ["RTVS 2", "Všeobecný a vzdelávací obsah"],
-        ["RTVS 24", "Správy 24 hodín denne, 7 dní v týždni"],
-        ["RTVS SPORT", "Šport 24 hodín denne, 7 dní v týždni"],
+        ["Jednotka", "Všeobecný obsah"],
+        ["Dvojka", "Všeobecný a vzdelávací obsah"],
+        [":24", "Správy 24 hodín denne, 7 dní v týždni"],
+        [":ŠPORT", "Šport 24 hodín denne, 7 dní v týždni"],
         ["TV JOJ", "Televízne programy a filmy"],
         ["JOJ Plus", "Americké televízne relácie"],
         ["JOJ WAU", "Prémiový televízny kanál"],
