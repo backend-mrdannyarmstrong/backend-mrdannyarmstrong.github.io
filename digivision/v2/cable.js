@@ -22,13 +22,13 @@
         ["index3.html#https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch19.png"],
         ["index3.html#https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch20.png"],
         ["index3.html#https://n16.stv.livebox.sk/ta3/7961d8dd9f5231bc2b4a6745ddc48706/1.smil/chunklist_b1667072.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch21.png"],
-        ["index3.html#https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch22.png"],
-        ["index3.html#https://www.newsnationnow.com/news-nation-live/", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch23.png"],
-        ["index3.html#http://v1.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch24.png"],
+        ["index2.html#https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch22.png"],
+        ["index2.html#https://www.newsnationnow.com/news-nation-live/", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch23.png"],
+        ["index2.html#http://v1.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch24.png"],
         ["index2.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch25.png"],
         ["index2.html#https://tvpass.org/channel/e-entertainment-usa-eastern-feed", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch26.png"],
-        ["index2.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch27.png"],
-        ["index3.html#https://backend-mrdannyarmstrong.github.io/digivision/v2/yt/tao.html", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch28.png"],
+        ["index3.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch27.png"],
+        ["index2.html#https://backend-mrdannyarmstrong.github.io/digivision/v2/yt/tao.html", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch28.png"],
         ["index.html", "NULL"],
     ];
     return channeldb;
