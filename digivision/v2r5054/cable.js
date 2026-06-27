@@ -2,7 +2,7 @@
     let channeldb = [
         ["index4.html", "NULL"],
         ["index3.html#https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch1.png"],
-        ["index3.html#https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch2.png"],
+        ["index2.html#https://opto.sic.pt/stream-fullscreen", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch2.png"],
         ["index3.html#https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI2IDg6Mzc6MSBQTSZoYXNoX3ZhbHVlPW03YW9vM3NCbU9XSmRNN1dBR3h3NFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yODk5NTAyYy03ZDlmLTQwODYtYmY1ZC02M2VhNTdlYTgwOTE=", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch3.png"],
         ["index3.html#https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI2IDg6Mzc6MSBQTSZoYXNoX3ZhbHVlPW03YW9vM3NCbU9XSmRNN1dBR3h3NFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yODk5NTAyYy03ZDlmLTQwODYtYmY1ZC02M2VhNTdlYTgwOTE=", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch4.png"],
         ["index3.html#https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch5.png"],
@@ -45,7 +45,7 @@ function getchinfo() {
 function getwebchannels() {
     let channeldb = [
         ["index2.html#https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch1.png"],
-        ["index2.html#https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch2.png"],
+        ["https://opto.sic.pt/stream-fullscreen", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch2.png"],
         ["index2.html#https://video-auth6.iol.pt/edge_servers/tviinternacional-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI2IDg6Mzc6MSBQTSZoYXNoX3ZhbHVlPW03YW9vM3NCbU9XSmRNN1dBR3h3NFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yODk5NTAyYy03ZDlmLTQwODYtYmY1ZC02M2VhNTdlYTgwOTE=", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch3.png"],
         ["index2.html#https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI2IDg6Mzc6MSBQTSZoYXNoX3ZhbHVlPW03YW9vM3NCbU9XSmRNN1dBR3h3NFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yODk5NTAyYy03ZDlmLTQwODYtYmY1ZC02M2VhNTdlYTgwOTE=", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch4.png"],
         ["index2.html#https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2r5054/ch5.png"],
