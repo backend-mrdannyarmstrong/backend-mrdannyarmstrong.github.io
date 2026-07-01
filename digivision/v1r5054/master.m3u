@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1,RTP 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+#EXTVLCOPT:http-origin=https://www.rtp.pt
+#EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1,SIC
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+
+#EXTINF:-1,TVI
+https://video-auth6.iol.pt/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI2IDg6Mzc6MSBQTSZoYXNoX3ZhbHVlPW03YW9vM3NCbU9XSmRNN1dBR3h3NFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yODk5NTAyYy03ZDlmLTQwODYtYmY1ZC02M2VhNTdlYTgwOTE=
+
+#EXTINF:-1,CNN Portugal
+https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDI2IDg6Mzc6MSBQTSZoYXNoX3ZhbHVlPW03YW9vM3NCbU9XSmRNN1dBR3h3NFE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yODk5NTAyYy03ZDlmLTQwODYtYmY1ZC02M2VhNTdlYTgwOTE=
+
+
+#EXTINF:-1,Bob Ross
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f36d726234ce10007784f2a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=68a91069-a7cb-42a1-9a47-e7fdffbec715
+
+#EXTINF:-1,NewsNation
+https://www.newsnationnow.com/news-nation-live/
+
+#EXTINF:-1,Weather Scan
+http://v2.weatherscan.net/
+
+#EXTINF:-1,Cartoon Network
+https://retroblast.tv/hls/stream.m3u8
+
+#EXTINF:-1,TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,Zen
+https://www.youtube.com/watch?v=d2Jb_UiDmLY
