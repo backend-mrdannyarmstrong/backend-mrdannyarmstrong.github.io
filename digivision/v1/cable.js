@@ -94,15 +94,14 @@ function getwebchannels() {
         ["index2.html#https://live.cdn.joj.sk/live/andromeda/cs_history-1080.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch18.png"],
         ["index2.html#https://live.cdn.joj.sk/live/andromeda/cs_film-1080.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch19.png"],
         ["index2.html#https://live.cdn.joj.sk/live/andromeda/cs_mystery-1080.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch20.png"],
-        ["https://www.ta3.com/live", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch22.png"],
-        ["https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch23.png"],
-        ["https://www.newsnationnow.com/news-nation-live/", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch24.png"],
-        ["http://v1.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch25.png"],
-        ["index2.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch26.png"],
-        ["index2.html#https://asp7.toonamiaftermath.com/livehttporigin/est/Ibd7c5-xHCbpk-playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch27.png"],
-        ["index2.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch28.png"],
-        ["index5.html#https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch29.png"],
-        ["https://backend-mrdannyarmstrong.github.io/digivision/v1/yt/tao.html", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch30.png"],
+        ["https://www.ta3.com/live", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch21.png"],
+        ["https://pluto.tv/us/live-tv/5f36d726234ce10007784f2a", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch22.png"],
+        ["https://www.newsnationnow.com/news-nation-live/", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch23.png"],
+        ["http://v1.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch24.png"],
+        ["index2.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch25.png"],
+        ["index2.html#https://asp7.toonamiaftermath.com/livehttporigin/est/Ibd7c5-xHCbpk-playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch26.png"],
+        ["index2.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch27.png"],
+        ["https://backend-mrdannyarmstrong.github.io/digivision/v1/yt/tao.html", "https://backend-mrdannyarmstrong.github.io/digivision/v1/ch28.png"],
     ];
     return channeldb;
 }
