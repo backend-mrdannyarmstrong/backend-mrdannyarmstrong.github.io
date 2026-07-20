@@ -3,7 +3,7 @@
         ["index4.html", "NULL"],
         ["index3.html#https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/v1-121.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch1.png"],
         ["index3.html#https://hls3eu.sweet.tv/stream/pv288u4tiszs28eusv7rkx5g242terfn3msvpxd89c8ajx85qwbj6kfnzutikxbe2rj6y9cam43a32zbkdy2v3js2chczszwmjrg2cd93b474sik8v45fnuadj4cy8g38n8zba7fahxwa6zhrdkkd7buka3dx3ueyfqgwjb22exkrh3i73w888p7afxpi5d3pc3wdwi=.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch2.png"],
-        ["index3.html#https://tvp5.cache.orange.pl/tvp/live/W618FE7qBD6NPnlDZnxy4Q/1784500180/video/live/live171/nginx/INF/156/master_v3.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch3.png"],
+        ["index3.html#https://www.tvp.info/ogladaj-na-zywo", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch3.png"],
         ["index3.html#https://hls6eu.sweet.tv/stream/8e4vua775pfspiknhfkn3jmyhp665w9ir79yce4fs5fnavef97k3dtxz4a3pr66u6gvrvwjtuh6wfbrry56y2md4erufdu34wyk2t6g4j6kc6gbz65eqaa4msfcmpsdffjzpvktdpxgyv6nenzixbf9uvcunbhcdcccsip28m2wf27skj9vugvq3f23hrq7imm3xfra=.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch4.png"],
         ["index2.html#https://pilot.wp.pl/tv/#polsat-hd", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch5.png"],
         ["index2.html#https://tvivu.com/watch/polsat-film", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch6.png"],
