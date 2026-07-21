@@ -13,7 +13,7 @@
         ["index2.html#https://stream.4fun.tv:8888/hls/4f_high/index.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch11.png"],
         ["index2.html#https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch12.png"],
         ["https://www.newsnationnow.com/news-nation-live/", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch13.png"],
-        ["http://v1.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch16.png"],
+        ["http://v2.weatherscan.net/", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch14.png"],
         ["index2.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch15.png"],
         ["index2.html#https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch16.png"],
         ["https://tvnow247.top/watch/e-entertainment-television/", "https://backend-mrdannyarmstrong.github.io/digivision/v2/ch17.png"],
