@@ -1,4 +1,4 @@
-function getchannels() {
+﻿function getchannels() {
     let channeldb = [
         ["index4.html", "NULL"],
         ["index3.html#https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch1.png"],
