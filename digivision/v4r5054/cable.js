@@ -9,7 +9,7 @@
         ["index3.html#tvific", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch6.png"],
         ["index3.html#tvirel", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch7.png"],
         ["index3.html#tvivps", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch8.png"],
-        ["index3.html#cnn", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch9.png"],
+        ["index2.html#https://cnnportugal.iol.pt/direto", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch9.png"],
         ["index2.html#https://v2.rdse.lat/cinemax?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch10.png"],
         ["index2.html#https://v2.rdse.lat/espn?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch11.png"],
         ["index2.html#https://v2.rdse.lat/cartoonnetwork?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch12.png"],
@@ -35,9 +35,6 @@
     tvivmsurl = tviget(4);
     tvivmsurl = "index3.html#" + tvivmsurl;
     channeldb[8][0] = tvivmsurl;
-    cnnurl = tviget(5);
-    cnnurl = "index3.html#" + cnnurl;
-    channeldb[9][0] = cnnurl;
     return channeldb;
 }
 
@@ -79,7 +76,7 @@ function getwebchannels() {
         ["index2.html#tvific", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch6.png"],
         ["index2.html#tvirel", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch7.png"],
         ["index2.html#tvivps", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch8.png"],
-        ["index3.html#cnn", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch9.png"],
+        ["https://cnnportugal.iol.pt/direto", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch9.png"],
         ["https://v2.rdse.lat/cinemax?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch10.png"],
         ["https://v2.rdse.lat/espn?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch11.png"],
         ["https://v2.rdse.lat/cartoonnetwork?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v4r5054/ch12.png"],
@@ -105,9 +102,6 @@ function getwebchannels() {
     tvivmsurl = tviget(4);
     tvivmsurl = "index2.html#" + tvivmsurl;
     channeldb[7][0] = tvivmsurl;
-    cnnurl = tviget(5);
-    cnnurl = "index3.html#" + cnnurl;
-    channeldb[8][0] = cnnurl;
     return channeldb;
 }
 
