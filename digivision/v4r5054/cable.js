@@ -126,7 +126,7 @@ function tviget(flagger) {
         url = "https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/Vmais_TVI.m3u8";
     }
     if (flagger == 5) {
-        url = "https://github.com/LITUATUI/M3UPT/blob/main/M3U/CNN_Portugal.m3u8";
+        url = "https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portugal.m3u8";
     }
     
     try {
