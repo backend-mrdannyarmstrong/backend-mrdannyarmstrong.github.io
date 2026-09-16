@@ -9,14 +9,18 @@
         ["index3.html#tvific", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch6.png"],
         ["index3.html#tvirel", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch7.png"],
         ["index3.html#tvivps", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch8.png"],
-        ["index2.html#https://pluto.tv/us/watch/live-tv/#18785", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch9.png"],
-        ["index2.html#https://www.newsnationnow.com/news-nation-live/", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch10.png"],
-        ["index2.html#https://i1.weatherstar.dev/", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch11.png"],
-        ["index3.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch12.png"],
-        ["index3.html#https://asp7.toonamiaftermath.com/livehttporigin/est/Ibd7c5-xHCbpk-playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch13.png"],
-        ["index2.html#https://pluto.tv/us/watch/live-tv/#18785", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch14.png"],
-        ["index2.html#https://pluto.tv/us/watch/live-tv/#31215", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch15.png"],
-        ["index2.html#https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/yt/tao.html", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch16.png"],
+        ["index2.html#https://cnnportugal.iol.pt/direto", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch9.png"],
+        ["index2.html#https://v2.rdse.lat/cinemax?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch10.png"],
+        ["index2.html#https://v2.rdse.lat/espn?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch11.png"],
+        ["index2.html#https://v2.rdse.lat/cartoonnetwork?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch12.png"],
+        ["index3.html#https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch13.png"],
+        ["index3.html#https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch14.png"],
+        ["index3.html#https://media.cdntvms.com.br/record_nacional_sat/index.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch15.png"],
+        ["index3.html#https://redebrasil.nuvemplay.live/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch16.png"],
+        ["index2.html#https://www.newsnationnow.com/news-nation-live/", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch17.png"],
+        ["index2.html#https://i1.weatherstar.dev/", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch18.png"],
+        ["index3.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch19.png"],
+        ["index2.html#https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/yt/tao.html", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch20.png"],
         ["index.html", "NULL"],
     ];
     tviurl = tviget(1);
@@ -45,14 +49,18 @@ function getchinfo() {
         ["TVI Ficção", "Telenovelas"],
         ["TVI Reality", "programas de reality show"],
         ["V+", "Telenovelas e programas de reality show"],
-        ["Bob Ross", "Joy of Painting"],
-        ["The Hill", "Non bias news 24/7"],
+        ["CNN Portugal", "Notícias 24 horas por dia, 7 dias por semana."],
+        ["Cinemax", "Canal de filmes"],
+        ["ESPN", "Canal de desporto"],
+        ["Cartoon Network Portugal", "Telenovelas"],
+        ["TV Cultura", "Conteúdo geral"],
+        ["SBT", "Telenovelas e programas de jogos"],
+        ["Record TV", "Telenovelas"],
+        ["Rede Brasil", "Séries de TV e filmes clássicos"],
+        ["News Nation", "Non bias news 24/7"],
         ["Weather Scan", "Weather info 24/7"],
         ["Cartoon Network", "Cartoons"],
-        ["Toonami Aftermath", "Cartoons and Anime"],
-        ["00s Replay", "Movies from the new mellenium"],
-        ["Vevo 2k", "Music from the new mellenium"],
-        ["Zen Music", "Traditional Asian music 24/7"],
+        ["TaoS Music", "Traditional Asian music 24/7"],
         ["Channel Name", "Channel Description"],
     ];
     return chinfodb;
@@ -68,14 +76,18 @@ function getwebchannels() {
         ["index2.html#tvific", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch6.png"],
         ["index2.html#tvirel", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch7.png"],
         ["index2.html#tvivps", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch8.png"],
-        ["https://pluto.tv/us/watch/live-tv/#18785", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch9.png"],
-        ["https://www.newsnationnow.com/news-nation-live/", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch10.png"],
-        ["https://i1.weatherstar.dev/", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch11.png"],
-        ["index2.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch12.png"],
-        ["index2.html#https://asp7.toonamiaftermath.com/livehttporigin/est/Ibd7c5-xHCbpk-playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch13.png"],
-        ["https://pluto.tv/us/watch/live-tv/#18785", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch14.png"],
-        ["https://pluto.tv/us/watch/live-tv/#31215", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch15.png"],
-        ["https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/yt/tao.html", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch16.png"],
+        ["https://cnnportugal.iol.pt/direto", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch9.png"],
+        ["https://v2.rdse.lat/cinemax?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch10.png"],
+        ["https://v2.rdse.lat/espn?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch11.png"],
+        ["https://v2.rdse.lat/cartoonnetwork?si=0", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch12.png"],
+        ["index2.html#https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch13.png"],
+        ["index2.html#https://6836041ea1117.streamlock.net/cverde/cverde/playlist.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch14.png"],
+        ["index2.html#https://media.cdntvms.com.br/record_nacional_sat/index.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch15.png"],
+        ["index2.html#https://redebrasil.nuvemplay.live/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch16.png"],
+        ["https://www.newsnationnow.com/news-nation-live/", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch17.png"],
+        ["https://i1.weatherstar.dev/", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch18.png"],
+        ["index2.html#https://retroblast.tv/hls/stream.m3u8", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch19.png"],
+        ["https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/yt/tao.html", "https://backend-mrdannyarmstrong.github.io/digivision/v3r5054/ch20.png"],
 
     ];
     tviurl = tviget(1);
@@ -106,6 +118,9 @@ function tviget(flagger) {
     }
     if (flagger == 4) {
         url = "https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/Vmais_TVI.m3u8";
+    }
+    if (flagger == 5) {
+        url = "https://raw.githubusercontent.com/LITUATUI/M3UPT/refs/heads/main/M3U/CNN_Portugal.m3u8";
     }
     
     try {
